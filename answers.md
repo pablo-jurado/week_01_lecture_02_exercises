@@ -1,55 +1,56 @@
-Quiz Questions
+Answer the following 10 questions to the best of your ability. Save your answers to a file called answers.md.
 
-
-Which of these html is an acceptable hierarchy for a newspaper article?
+1. Which of these html is an acceptable hierarchy for a newspaper article?
 
 a) html > body > article > footer
 
 b) body > html > p > footer
 
-c) html > body > section > article > p
+``` Answer c) html > body > section > article > p ```
 
 d) div > div > div > p
 
+---
 
-
-In the example, which element is the child and which is the parent?
-
+2.In the example, which element is the child and which is the parent?
+```
 <head>
   <title></title>
 </head>
-a) Head is the parent, title is the child
+```
+``` Answer a) Head is the parent, title is the child```
 
 b) Child is the parent, had is the child
 
+---
 
-
-Which is the correct list of responsibilities for HTML and CSS:
+3.Which is the correct list of responsibilities for HTML and CSS:
 
 a) CSS: presentation, HTML: data
 
-b) HTML: data, CSS: presentation
+``` Answer b) HTML: data, CSS: presentation```
 
 c) HTML: data and presentation, CSS: colors
 
+---
 
+4.Which tag wraps text content into a paragraph?
 
-Which tag wraps text content into a paragraph?
-
+```
 a) <paragraph>
 
 b) <text>
 
 c) <article>
 
-d) <p>
+*** Answer d) <p> ***
+```
 
+---
 
-
-Given the following image, which of the following HTML matches the design? Explain your reasoning.
-
-resources/html-intro.png
-a)
+5.Given the following image, which of the following HTML matches the design? Explain your reasoning.
+```
+a) this one because has a header, nav, h1 on top of the file and it has img, ul on the article section.
 
   <header>
     <nav></nav>
@@ -75,53 +76,53 @@ b)
     <h1></h1>
     <h5></h5>
   </div>
+  ```
 
+---
 
-
-What is the purpose of the alt attribute?
+6.What is the purpose of the alt attribute?
 
 a) Provide an alternate link for the href attribute if the primary link goes nowhere
 
 b) Alternative text to show in a second language
 
-c) Provide a description of the image for screen readers and search engines
+``` Answer c) Provide a description of the image for screen readers and search engines```
 
+---
 
-
-
-What will a browser do if HTML is invalid?
+7.What will a browser do if HTML is invalid?
 
 a) Display content without problems
 
 b) Display nothing and warn the user the HMTL is invalid
 
-c) Do the best it can, but the page might not look the way it is intended
+``` Answer c) Do the best it can, but the page might not look the way it is intended```
 
+---
 
-
-
-What is the definition of a void tag:
+8.What is the definition of a void tag:
 
 a) A void tag does not show to the browser
 
-b) A void tag has no content
+``` Answer b) A void tag has no content```
 
 c) A void tag is not valid HTML syntax
 
+---
 
-
-Which of the following is the correct syntax to apply multiple classes to an element?
-
+9.Which of the following is the correct syntax to apply multiple classes to an element?
+```
 a) <div class="large" class="important" class="sparkly"></div>
 
-b) <div class="large important sparkly"></div>
+*** Answer b) <div class="large important sparkly"></div>***
 
 c) <div class="large,important,sparkly"></div>
+```
 
+---
 
-
-In the following HTML, what is the article's relationship to the aside?
-
+10.In the following HTML, what is the article's relationship to the aside?
+```
 <html>
   <head></head>
   <body>
@@ -134,10 +135,12 @@ In the following HTML, what is the article's relationship to the aside?
     </aside>
   </body>
 </html>
+```
 a) child
 
-b) sibling
+``` Answer b) sibling```
 
 c) ancestor
 
 d) parent
+
